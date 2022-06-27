@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+<!--
+
 # I'm Anderson Júnior
 
 <div>
-  <!--About me-->
   <img width="50" height="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png">
   <img width="30" height="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/65/memo_1f4dd.png"> I’m currently learning about: <b>java</b> and <b>C#</b>
 
@@ -13,20 +14,20 @@
 # My skills
 
 <div style="display: inline_block"><br>
-  <!--html-->
+  
   <img align="center" alt="Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <!--css-->
+  
   <img align="center" alt="Css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <!--Java-->
+  
   <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <!--c-->
+  
   <img align="center" alt="C" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <!--c++-->
+  
   <img align="center" alt="C++" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <!--mysql-->
+  
   <img align="center" alt="Mysql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
+-->
 ## 
 
 <!--Github stats-->
