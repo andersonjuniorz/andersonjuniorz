@@ -39,11 +39,11 @@
  
 <div> 
   <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/andersonjuniorz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <!--<a href="https://www.linkedin.com/in/andersonjuniorz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
   <!--Stack Overflow-->
   <!--<a href="https://stackoverflow.com/users/13803792/andersonjuniorz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>--> 
   <!--Stack Exchange-->
-  <a href="https://elementaryos.stackexchange.com/users/26510/andersonjuniorz" target="_blank"><img height="28" src="https://aleen42.github.io/badges/src/stackexchange.svg"></a>
+  <!--<a href="https://elementaryos.stackexchange.com/users/26510/andersonjuniorz" target="_blank"><img height="28" src="https://aleen42.github.io/badges/src/stackexchange.svg"></a>-->
   <!--Discord-->
   <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>-->
 </div>
