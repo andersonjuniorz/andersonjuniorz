@@ -1,4 +1,3 @@
-<!--
 ### Hi there 👋
 
 
@@ -30,21 +29,21 @@
 </div>
 
 ## 
--->
-<!--Github stats
+
+Github stats
 <div>
   <a href="https://github.com/andersonjuniorz"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonjuniorz&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjuniorz&layout=compact&langs_count=7&theme=dark">
 </div>
-  -->
-  <!--## Contact me
+  
+  ## Contact me
  
-<div> -->
+<div> 
   <!--LinkedIn-->
-  <!--<a href="https://www.linkedin.com/in/andersonjuniorz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
+  <a href="https://www.linkedin.com/in/andersonjuniorz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <!--Stack Overflow-->
-  <!--<a href="https://stackoverflow.com/users/13803792/andersonjuniorz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>--> 
+  <a href="https://stackoverflow.com/users/13803792/andersonjuniorz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <!--Stack Exchange-->
-  <!--<a href="https://elementaryos.stackexchange.com/users/26510/andersonjuniorz" target="_blank"><img height="28" src="https://aleen42.github.io/badges/src/stackexchange.svg"></a>-->
+  <a href="https://elementaryos.stackexchange.com/users/26510/andersonjuniorz" target="_blank"><img height="28" src="https://aleen42.github.io/badges/src/stackexchange.svg"></a>
   <!--Discord-->
-  <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>-->
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
