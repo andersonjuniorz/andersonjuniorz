@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, Typescript, Angular and Laravel**
 
-- 📫 How to reach me **dev.andersonjunior@gmail.com**
+- 📫 How to reach me **dev.andersonjuniorz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
