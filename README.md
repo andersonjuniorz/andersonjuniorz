@@ -12,12 +12,12 @@ Bem-vindo ao meu perfil no GitHub! Eu sou um desenvolvedor entusiasta com foco e
 ## 💡 O que eu gosto de estudar
 
 - Desenvolvimento Full Stack com Java, Angular e React
-- Desenvolvimento de Jogos: Blender, Unity e Unreal
+- Desenvolvimento de Jogos: Blender, Unity & Unreal
 - Desenvolvimento de Automações: financeiras e assistentes virtuais
 
 ## 🌱 O que estou aprendendo atualmente
 
-- **Angular e React com Java** no backend
+- **Angular e ReactJS com Java** no backend
 - Técnicas avançadas de **desenvolvimento fullstack**
 - UI/UX com Figma
 
