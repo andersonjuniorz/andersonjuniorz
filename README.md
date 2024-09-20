@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Eu sou um desenvolvedor entusiasta com foco e
 
 ## 🛠️ Sobre mim
 
-- 🎓 **Estudante de Ciência da Computação**, atualmente no 7º período
+- 🎓 **Estudante de Ciência da Computação**, atualmente no 7º de 8 períodos
 - 💻 Focado em desenvolvimento Full Stack com **Java**
 - 🎮 Amante de desenvolvimento de **jogos e simuladores em Blender, Unity & Unreal**
 - 🔬 Atuo em **iniciação científica** desenvolvendo sistemas, jogos e simuladores
